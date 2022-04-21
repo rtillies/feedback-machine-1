@@ -118,9 +118,9 @@ function generateFeedback() {
   // genFeed += "\n# Commits: " + num_commits + "\n# Pull requests: " + num_pr + "\n";
 
   reminder  = "As a reminder, here are the promotion requirements to Mod 2:\n"
-  reminder += " * Instructor Paired Final score: 2.0 or higher \n"
-  reminder += " * Final IC score: 2.0 or higher \n"
-  reminder += " * Combined score: 5.0 or higher \n"
+  reminder += "Instructor Paired Final score: 2.0 or higher \n"
+  reminder += "Final IC score: 2.0 or higher \n"
+  reminder += "Combined score: 5.0 or higher \n"
   reminder += "Good luck! \n";
   genFeed += reminder
 
